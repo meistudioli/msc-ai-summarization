@@ -15,7 +15,7 @@
 ```html
 <script
   type="module"
-  src="https://unpkg.com/msc-ai-summarizationt/mjs/wc-msc-ai-summarization.js">        
+  src="https://unpkg.com/msc-ai-summarization/mjs/wc-msc-ai-summarization.js">        
 </script>
 ```
 

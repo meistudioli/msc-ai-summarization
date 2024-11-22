@@ -1,6 +1,6 @@
 {
   "name": "msc-ai-summarization",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "<msc-ai-summarization /> is a web component based on Chrome Built-in AI > Summarization API. Web developers could use <msc-ai-summarization /> wrap article which want to adopt summarize feature.",
   "main": "index.html",
   "scripts": {
