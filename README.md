@@ -226,6 +226,6 @@ Set localization for title or action buttons.
 - [AI on Chrome > Built-in AI](https://developer.chrome.com/docs/ai/built-in)
 - [Join the early preview program](https://docs.google.com/forms/d/e/1FAIpQLSfZXeiwj9KO9jMctffHPym88ln12xNWCrVkMY_u06WfSTulQg/viewform)
 - [Built-in AI > Summarization API](https://developer.chrome.com/docs/ai/summarizer-api)
-- [<msc-ai-summarization /> demo](https://blog.lalacube.com/mei/webComponent_msc-ai-summarization.html)
+- [&lt;msc-ai-summarization /> demo](https://blog.lalacube.com/mei/webComponent_msc-ai-summarization.html)
 - [YouTube tutorial](https://youtube.com/shorts/xmqxw8PPTFo)
 - [WEBCOMPONENTS.ORG](https://www.webcomponents.org/element/msc-ai-summarization)
