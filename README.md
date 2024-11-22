@@ -218,13 +218,14 @@ Set localization for title or action buttons.
 ## Event
 | Event Signature | Description |
 | ----------- | ----------- |
-| msc-ai-summarize-error | Fired when summarize process error occured. Developers could gather `message` information through event.detail. |
-| msc-ai-summarize-process | Fired when prompt processing. |
-| msc-ai-summarize-process-end | Fired when prompt process end. |
+| msc-ai-summarization-error | Fired when summarize process error occured. Developers could gather `message` information through event.detail. |
+| msc-ai-summarization-process | Fired when prompt processing. |
+| msc-ai-summarization-process-end | Fired when prompt process end. |
 
 ## Reference
 - [AI on Chrome > Built-in AI](https://developer.chrome.com/docs/ai/built-in)
 - [Join the early preview program](https://docs.google.com/forms/d/e/1FAIpQLSfZXeiwj9KO9jMctffHPym88ln12xNWCrVkMY_u06WfSTulQg/viewform)
 - [Built-in AI > Summarization API](https://developer.chrome.com/docs/ai/summarizer-api)
+- [<msc-ai-summarization /> demo](https://blog.lalacube.com/mei/webComponent_msc-ai-summarization.html)
 - [YouTube tutorial](https://youtube.com/shorts/xmqxw8PPTFo)
 - [WEBCOMPONENTS.ORG](https://www.webcomponents.org/element/msc-ai-summarization)
