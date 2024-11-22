@@ -1,0 +1,27 @@
+{
+  "name": "msc-ai-summarization",
+  "version": "1.0.0",
+  "description": "<msc-ai-summarization /> is a web component based on Chrome Built-in AI > Summarization API. Web developers could use <msc-ai-summarization /> wrap article which want to adopt summarize feature.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meistudioli/msc-ai-summarization.git"
+  },
+  "keywords": [
+    "web",
+    "front-end",
+    "web component",
+    "built-in AI",
+    "AI on Chrome",
+    "Summarization API"
+  ],
+  "author": "Paul Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meistudioli/msc-ai-summarization/issues"
+  },
+  "homepage": "https://github.com/meistudioli/msc-ai-summarization#readme"
+}
